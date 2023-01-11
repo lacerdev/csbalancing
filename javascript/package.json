@@ -11,7 +11,10 @@
   },
   "jest": {
     "testMatch": [
-      "**/*.js"
+      "**/*.test.js"
     ]
+  },
+  "devDependencies": {
+    "prettier": "^2.8.2"
   }
 }
